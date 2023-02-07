@@ -1,0 +1,25 @@
+body{
+    background-color: #6b6be994;
+    text-align: center;
+}
+section{
+   background-color: white;
+   width: fit-content;
+   height: auto;
+   text-align: center;
+   border-radius: 5px;
+   object-position: left;
+   margin: auto; 
+   border: solid ;
+}
+
+input{
+    margin: 9px 38px ;
+}
+div#msg{
+    background-color: #6b6be9;
+    border: double ;
+    width: auto;
+    height: max-content;
+    margin: auto;
+}
